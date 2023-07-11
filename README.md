@@ -1,4 +1,4 @@
-Section B: JavaScript Calculator Testing
+#Section B: JavaScript Calculator Testing
 NOTE: This exercise should be done individually because it is part of the PDA
 
 This activity relates to the following Outcome and Knowledge/Skills:
