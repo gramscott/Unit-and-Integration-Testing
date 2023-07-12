@@ -57,3 +57,8 @@ You should write tests to ensure the following requirements are met:
 3. Can multiple operations be chained together?
 4. Is the output as expected for a range of numbers (for example, positive, negative, decimals and very large numbers)?
 5. What does the code do in exceptional circumstances? Specifically, if you divide by zero, what is the effect? Write a test to describe what you'd prefer to happen, and then correct the code to make that test pass (you will need to modify the Calculator model to meet this requirement).
+
+</hr>
+
+<img width="1408" alt="Screenshot 2023-07-12 at 11 55 40" src="https://github.com/gramscott/Unit-and-Integration-Testing/assets/120787031/5f4e7e71-83b0-4cf4-b319-ceaeb767e341">
+
